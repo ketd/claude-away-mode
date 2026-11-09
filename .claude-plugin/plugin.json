@@ -1,0 +1,11 @@
+{
+  "name": "away-mode",
+  "version": "0.1.0",
+  "description": "出门模式 / Away mode: /away 一键切换，开启后所有会话的 Claude 不提问、不停下等确认，按最佳方案推进；不可逆操作挂起待你回来",
+  "author": { "name": "ketd", "url": "https://github.com/ketd" },
+  "homepage": "https://github.com/ketd/claude-away-mode",
+  "repository": "https://github.com/ketd/claude-away-mode",
+  "license": "MIT",
+  "keywords": ["autonomy", "away", "afk", "unattended", "stop-hook"],
+  "types": "./types/index.d.ts"
+}

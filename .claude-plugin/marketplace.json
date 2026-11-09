@@ -1,0 +1,6 @@
+{
+  "name": "claude-away-mode",
+  "owner": { "name": "ketd" },
+  "description": "Away mode for Claude Code: /away makes Claude stop asking and keep working while you're gone",
+  "plugins": [{ "name": "away-mode", "source": "./" }]
+}
